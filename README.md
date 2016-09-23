@@ -1,14 +1,17 @@
-## Giancarlo Fabrizi
+[Skills](#skills) | [Education](#education) | [Experience](#experience)
 
-Junior developer with a love and appreciation for following good development practices.
+## :bowtie: Giancarlo Fabrizi
 
-Strong advocate in lifelong learning with a zeal for discovering new things.
+I'm a junior developer with a love and appreciation for following good development practices.
 
-English Teacher in a previous life who has dived in head first into a major career change to get closer to the amazing tech scene.
+I've always had a passion for challenging myself and learning and mastering new skills. I think life-long learning is an essential part of being a developer and a successful career.
 
-Currently looking for a role which gives me the opportunity to continue progressing and growing at the incredibly rapid rate I have during my time with Makers Academy.
+As an English teacher in a previous life, I learned to communicate and work with people from all walks of life and skill level. Adapting to a constantly changing environment has taught me to be flexible, and reach my goals with focus and determination.
 
-## Skills
+After finishing Makers Academy I've decided to dive in head first into a major career change to get closer to the exciting tech scene. I'm currently looking for a role which provides the opportunity to continue progressing and growing at the incredibly rapid rate I have become accustomed to.
+
+### :computer: <a name="skills">Skills</a>
+
 
 #### Software/Web Development & Testing
 
@@ -33,19 +36,18 @@ Currently looking for a role which gives me the opportunity to continue progress
 
 #### Clean Code
 
-  *  Take pride in the code I produce and always ask myself if it could be improved, more efficient and easier to understand.
+  *  Taking pride in the code produced and constantly striving to improve it, make it more efficient and easier to understand.
   *  Designing and writing programs as interactions among functions that each perform a single well-defined function, and which have minimal side-effect interaction between them.
-  *  Attention to detail, including choice of names. I carefully pick the clearest, most descriptive and least ambiguous name I can think of, trying to put myself in the shoes of noobs.
+  *  Attention to detail, including choice of names. By carefully picking the clearest, most descriptive and least ambiguous name possible, the user experience is made simpler and more efficient.
 
 
-  #### Communication
+#### Communication
 
-  * Coordinating with your team members and peers about the nitty-gritty, with the goal of developing the product.
-  * Discuss technical options with your team members and colleagues, ensuring that my point gets across.
-  * Teach a colleague or friend about a great technology/practice/whatever I am using and they should too.
-  * We are not isolated from each other. We must constantly share knowledge and best practices.
+  * Coordinating with team members and peers, with clarity and purpose, to efficiently develop the product on time.
+  * Clear and frank discussion of technical options with team members and colleagues, ensuring that instructions and feedback are followed and shared.
+  * Promoting better technology options to promote more efficient productivity and better working habits among team members.
 
-## Education
+### :mortar_board: <a name="education">Education</a>
 
 #### Makers Academy (June 2016 to September 2016)
 
@@ -58,14 +60,16 @@ Currently looking for a role which gives me the opportunity to continue progress
 
 #### St. Louis Community College (2000 to 2003)
 
-- Associates of Arts, Business Administration
+- Candidate of Associates of Arts, Business Administration
 
 
 #### Any other qualifications
 
-- Teaching English to Speakers of Other Languages (TESOL) (April 2006)
+- Teaching English as a Foreign Language (TEFL) (April 2006)
+- Italian C2
+- Russian A2
 
-## Experience
+### :briefcase: <a name="Experience">Experience</a>
 
 **Digital Publishing** (2012 to 2016)    
 *Teacher*  
