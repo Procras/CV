@@ -77,7 +77,7 @@ After finishing Makers Academy I've decided to dive in head first into a major c
 **Shenker Institutes of English** (2007 to 2012)   
 *Teacher*  
 
-**ProNet International, Inc** (2003 to 2006)
+**ProNet International, Inc** (2004 to 2005)
 *Operations Manager*
 
 **STL Department of Health** (2000 to 2003)
