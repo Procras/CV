@@ -1,6 +1,6 @@
 [Skills](#skills) | [Education](#education) | [Experience](#experience)
 
-## :bowtie: Giancarlo Fabrizi
+## :bowtie: John Fabrizi
 
 I'm a junior developer with a love and appreciation for following good development practices.
 
